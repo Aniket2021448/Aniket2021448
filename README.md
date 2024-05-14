@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on openCV projects<br>👯 I’m looking to collaborate on ML projects to learn more<br>🌱 I’m currently learning OpenCV along with ML, DL and NLP projects<br>💬 Ask me about nothing<br>⚡ Currently creating an application that performs face recognition, and notifies you on email or the dedicated app, about who is on door
+🔭 I’m currently working on openCV projects<br>👯 I’m looking to collaborate on ML projects to learn more<br>🌱 I’m currently learning OpenCV along with ML, DL and NLP projects<br>💬 Ask me about nothing<br>⚡ Currently creating an application that performs face recognition, and notifies you on email or the dedicated app, about who is on door, If possible I'll be adding video/ voice calling feature through the device installed.<br>
+👯Looking for someone who can collaborate to this, taken up the hardware this will need, like camera, microphone, speaker, display devices. We can create a really cool product to showcase.
+
+✌peace out!!!
 
 
 ## 🌐 Socials:
