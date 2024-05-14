@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Recommender system integration in websites<br>👯 I’m looking to collaborate on ML projects to learn more<br>🌱 I’m currently learning MERN stack along with ML, DL and NLP projects<br>💬 Ask me about nothing<br>⚡ Fun fact Ask me
+🔭 I’m currently working on openCV projects<br>👯 I’m looking to collaborate on ML projects to learn more<br>🌱 I’m currently learning OpenCV along with ML, DL and NLP projects<br>💬 Ask me about nothing<br>⚡ Currently creating an application that performs face recognition, and notifies you on email or the dedicated app, about who is on door
 
 
 ## 🌐 Socials:
