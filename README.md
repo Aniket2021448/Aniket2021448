@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on openCV projects<br>👯 I’m looking to collaborate on ML projects to learn more<br>🌱 I’m currently learning OpenCV along with ML, DL and NLP projects<br>💬 Ask me about nothing<br>
+🔭 I’m currently working on my javascript and CP skills<br>👯 I’m looking to collaborate on ML projects to learn more<br>💬 Ask me about nothing<br>
 
 ✌peace out!!!
 
